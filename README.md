@@ -1,5 +1,5 @@
 # Self_Driving_Car
-[![license](https://img.shields.io/github/license/mashape/apistatus.svg)](LICENSE)
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg)](LICENSE)<br><br>
 A demonstration of Reinforcement Learning applied to a car.
 ## Description
 This project was made while learning about *Deep Q Learning* which is a widely used technique for *Reinforcement Learning*.<br>
